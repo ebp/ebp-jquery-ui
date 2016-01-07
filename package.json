@@ -1,0 +1,19 @@
+{
+  "name": "ebp-jquery-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-ui.custom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebp/ebp-jquery-ui.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ebp/ebp-jquery-ui/issues"
+  },
+  "homepage": "https://github.com/ebp/ebp-jquery-ui#readme"
+}
